@@ -11,4 +11,14 @@ The main folder contains the
 -  utils.py which contains all the plot functions.
 
 # Summary
-The 
+![Summary](https://github.com/sunpau/ERA_V1_S7/blob/main/Images/summary.png)
+
+# Steps 
+- The first step is to get the structure of the model right. This was done by model
+![step1](https://github.com/sunpau/ERA_V1_S7/blob/main/Images/Step%201.png)
+
+- The second step is to refine the structure and increase the accuracy
+![step2](https://github.com/sunpau/ERA_V1_S7/blob/main/Images/Step%202.png)
+
+- The third step is tuning the hyperparameters.
+![step3](https://github.com/sunpau/ERA_V1_S7/blob/main/Images/Step%203.png)
